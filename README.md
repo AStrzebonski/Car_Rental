@@ -1,2 +1,2 @@
 # Car_Rental
-# A console application that simulates car rental management.
+## A console application that simulates car rental management.
