@@ -1,0 +1,23 @@
+brand|model|prod_year|capacity|price per day|register number|return date[dd.mm.yyyy]
+Honda|Jazz|2006|5|100|KRA1234|none
+Ford|Fiesta|2016|5|99.99|KR777|02.03.2021
+Fiat|125p|1970|4|2|KR823|23.04.2021
+Renault|Megane|2005|5|40|KMY1234|02.12.2022
+Opel|Astra|1999|5|25.35|AB123|24.02.2021
+Mercedes|S270|1973|4|150|RE123|14.03.2021
+BMW|E3|2000|5|50|TR125|23.07.2020
+Fiat|126p|1960|4|1|QR584|none
+Subaru|Impreza|1995|2|99.99|HJ456|none
+Fiat|Polonez|1968|4|56|GT446|24.03.2021
+Opel|Vectra|2004|5|46|TH567|none
+Solaris|Solaris|2019|45|199.9|KR190|none
+Seat|Leon|1998|5|12|RA146|25.03.2021
+Kia|Rio|2016|5|27|WR1279|23.04.2021
+Tesla|ZX150|2020|2|1010|GY467|none
+Honda|Jazz|2008|5|70|RT602|none
+Opel|Insignia|2019|5|340|RAG33|none
+Renault|Megane|2005|5|23|RQ1234|none
+Honda|Civic|2001|5|179|FG6576|12.09.2021
+Audi|80|1995|4|35|GV568|none
+toyota|corolla|2003|5|49|GMK67|none
+Honda|Civic|2002|5|67|RT3678|none
